@@ -1,4 +1,4 @@
-Factorization and Discrete Logarithm Algorithms.
+Factorization and Discrete Logarithm  cryptographic algorithms.
 
 Factorization:
 1. Brillhart-Morrison algorithm
